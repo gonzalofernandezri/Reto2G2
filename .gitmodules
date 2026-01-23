@@ -1,0 +1,6 @@
+[submodule "BackEndG2"]
+	path = BackEndG2
+	url = https://github.com/gonzalofernandezri/BackEndG2.git
+[submodule "FrontEndG2"]
+	path = FrontEndG2
+	url = https://github.com/gonzalofernandezri/FrontEndG2.git
